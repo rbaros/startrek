@@ -1,0 +1,62 @@
+body
+{
+    background-color: #000;
+    margin: 0px;
+    padding: 0px;
+}
+
+header
+{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+ul.nav
+{
+    float: left;
+    margin: 10px;
+    padding: 0px;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+.nav li
+{
+    list-style-type: none;
+    font-family: 'Geo', sans-serif;
+    text-decoration: none;
+    width: 200px;
+    background-color: #316EFF;
+    float: left;
+    margin-right: 10px;
+    border-radius: 8px;
+    border: 5px solid #316EFF;
+    height: 60px;
+}
+.nav li:nth-child(1)
+{
+    font-size: 2em;
+}
+
+.leftContent
+{
+    clear: left;
+    width: 50%;
+    background-color: #FF9400;
+    border-radius: 8px;
+    border: 5px solid #FF9400;
+    margin: 30px 10px 30px 10px;
+}
+
+h2
+{
+    font-family: 'Geo', sans-serif;
+}
+
+
+.planetImage
+{
+    float: right;
+    clear: left;
+}
