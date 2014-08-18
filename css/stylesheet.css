@@ -71,15 +71,15 @@ ul.secondaryNav
     color: #000;
     list-style-type: none;
     font-family: 'Geo', sans-serif;
-    font-size: 1.75em;
+    font-size: 1em;
     text-decoration: none;
-    width: 200px;
+    width: 100px;
     background-color: #316EFF;
     float: left;
     margin-right: 10px;
     border-radius: 8px;
     border: 5px solid #316EFF;
-    height: 60px;
+    height: 30px;
     padding-left: 10px;
     margin-bottom: 10px;
 }
@@ -89,15 +89,15 @@ ul.secondaryNav
     color: #FFF;
     list-style-type: none;
     font-family: 'Geo', sans-serif;
-    font-size: 2em;
+    font-size: 1.25em;
     text-decoration: none;
-    width: 200px;
+    width: 100px;
     background-color: #12295E;
     float: left;
     margin-right: 10px;
     border-radius: 8px;
     border: 5px solid #12295E;
-    height: 60px;
+    height: 30px;
     padding-left: 10px;
 }
 
