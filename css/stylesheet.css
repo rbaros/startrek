@@ -138,10 +138,33 @@ h3
     margin: 0px;
 }
 
+#reserveButton
+{
+    float: right;
+    display: block;
+    background-color: #8C5100;
+    border: 3px solid #8C5100;
+    border-radius: 4px;
+}
+#reserveButton a
+{
+    color: #FF9400;
+    margin: 10px;
+    text-decoration: none;
+    font-family: 'Geo', sans-serif;
+}
+
+#reserveButton:hover
+{
+    background-color: #522F00;
+    border: 3px solid #522F00;
+}
+
 .planetImage
 {
     float: left;
     width: 300px;
+    margin: 0px 10px 10px 10px;
 }
 
 @media (max-width: 800px)
