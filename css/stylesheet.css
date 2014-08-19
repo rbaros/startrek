@@ -157,3 +157,14 @@ h3
         width: 90%;
     }
 }
+
+.divider
+{
+    background-color: #FA3F5A;
+    border: 8px;
+    border-radius: 4px;
+    height: 12px;
+    clear: both;
+    margin: 12px;
+}
+
